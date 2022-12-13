@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="00505601-22e5-a1ed-9eaa-d4add15e12fe">
 	<DocumentID>00505601-22e5-a1ed-9eaa-d4add0cd12fe</DocumentID>
-	<Name>Project001</Name>
-	<Description>Project001</Description>
+	<Name>Project_001</Name>
+	<Description>Project_001</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-12-13T05:59:36.442</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="00505601-22e5-a1ed-9eaa-d4add5b192fe"
-			path="Project001"
+			path="Project_001"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="00505601-22e5-a1ed-9eaa-d4add3f212fe"
-							path="Project001/en-US_00505601-22e5-a1ed-9eaa-d4add3f212fe"
+							path="Project_001/en-US_00505601-22e5-a1ed-9eaa-d4add3f212fe"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="00505601-22e5-a1ed-9eaa-d4add2d012fe"
-					path="Project001/TranslationInformation_00505601-22e5-a1ed-9eaa-d4add2d012fe"
+					path="Project_001/TranslationInformation_00505601-22e5-a1ed-9eaa-d4add2d012fe"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
