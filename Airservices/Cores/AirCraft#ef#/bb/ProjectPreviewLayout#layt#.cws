@@ -90,15 +90,17 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon>
 				<uri
-					id="00505601-B36A-A1EC-9860-5DE618E4BB65"
+					id="0242ac12-0004-a1ed-9f0d-dc2cba5b8dea"
 					path="Airservices/Images/AirPlane.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
 			</PanelIcon>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
@@ -121,15 +123,17 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon>
 				<uri
-					id="00505601-B36A-A1EC-9860-5DE6183AFB65"
+					id="0242ac12-0004-a1ed-9f0d-dc33166a0dea"
 					path="Airservices/Images/Seat.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
 			</PanelIcon>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>

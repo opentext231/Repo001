@@ -1048,7 +1048,8 @@
 													<Notes/>
 													<DeveloperText>File</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2fb1-a1e8-90e9-256af4818459"
+														<uri
+															id="00505601-2fb1-a1e8-90e9-256af4818459"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1086,7 +1087,8 @@
 													<Notes/>
 													<DeveloperText>Static Folder</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2fb1-a1e8-90e9-256af8df0459"
+														<uri
+															id="00505601-2fb1-a1e8-90e9-256af8df0459"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1124,7 +1126,8 @@
 													<Notes/>
 													<DeveloperText>Dynamic Folder</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2fb1-a1e8-90e9-256afc450459"
+														<uri
+															id="00505601-2fb1-a1e8-90e9-256afc450459"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1381,7 +1384,7 @@
 		</ContentTemplateBuildingBlock>
 		<FileBuildingBlock
 			type="com.cordys.entity.buildingblocks.file.FileBuildingBlock"
-			typeVersion="A4C3F04A-EC1A-A1EC-B7FF-BB7161248ED8"
+			typeVersion="8C16454B-C921-A1ED-9377-9E052894B50B"
 			RuntimeDocumentID="00505601-23f2-a1e7-b78d-f63112301f5f">
 			<DocumentID>00505601-23f2-a1e7-b78d-f63112171f5f</DocumentID>
 			<Name>File</Name>
@@ -1643,6 +1646,42 @@
 					<Notes/>
 					<ActionDisplayName>renameDocument</ActionDisplayName>
 					<ActionId>A4C3F04AEC1AA1ECB7FF1177EDAB0ED8</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="0242ac12-0004-a1ed-9f0d-e3f6dfdf0dea">
+					<DocumentID>B888DBF5-12FA-3BDF-A316-F42CC66E9D85</DocumentID>
+					<Name>SendForSignature</Name>
+					<Description>SendForSignature</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-12-15T05:16:12.267</CreationDate>
+					<Notes/>
+					<ActionDisplayName>sendForSignature</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375773DC747350B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="0242ac12-0004-a1ed-9f0d-e41b709f8dea">
+					<DocumentID>2403399E-47EA-3B6A-92DF-D43628C974FB</DocumentID>
+					<Name>CancelSignatureRequest</Name>
+					<Description>CancelSignatureRequest</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-12-15T05:16:06.881</CreationDate>
+					<Notes/>
+					<ActionDisplayName>cancelSignatureRequest</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED937587A98E84B50B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="0242ac12-0004-a1ed-9f0d-e41b71588dea">
+					<DocumentID>8ACC4355-BDDA-3D3C-B26B-38C3693886F8</DocumentID>
+					<Name>GetSignatureStatus</Name>
+					<Description>GetSignatureStatus</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-12-15T05:16:12.242</CreationDate>
+					<Notes/>
+					<ActionDisplayName>getSignatureStatus</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375A10960C0F50B</ActionId>
 				</FileAction>
 			</OwnedActions>
 			<Properties>

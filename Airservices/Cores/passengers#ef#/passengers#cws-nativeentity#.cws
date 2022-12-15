@@ -1646,7 +1646,7 @@
 		</RelationshipBuildingBlock>
 		<FileBuildingBlock
 			type="com.cordys.entity.buildingblocks.file.FileBuildingBlock"
-			typeVersion="A4C3F04A-EC1A-A1EC-B7FF-BB7161248ED8"
+			typeVersion="8C16454B-C921-A1ED-9377-9E052894B50B"
 			RuntimeDocumentID="00505601-144E-A1E7-AE8E-0F30BAE080CA">
 			<DocumentID>00505601-144E-A1E7-AE8E-0F30BAE040CA</DocumentID>
 			<Name>File</Name>
@@ -1890,6 +1890,42 @@
 					<Notes/>
 					<ActionDisplayName>renameDocument</ActionDisplayName>
 					<ActionId>A4C3F04AEC1AA1ECB7FF1177EDAB0ED8</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="0242ac12-0004-a1ed-9f0d-e41b80e20dea">
+					<DocumentID>B038149C-C259-3243-9BB8-0DA20DCE29EC</DocumentID>
+					<Name>SendForSignature</Name>
+					<Description>SendForSignature</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-12-15T05:16:05.081</CreationDate>
+					<Notes/>
+					<ActionDisplayName>sendForSignature</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375773DC747350B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="0242ac12-0004-a1ed-9f0d-e444ae860dea">
+					<DocumentID>925E975E-9677-3E07-BD8F-669D59CC1F79</DocumentID>
+					<Name>CancelSignatureRequest</Name>
+					<Description>CancelSignatureRequest</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-12-15T05:16:12.259</CreationDate>
+					<Notes/>
+					<ActionDisplayName>cancelSignatureRequest</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED937587A98E84B50B</ActionId>
+				</FileAction>
+				<FileAction
+					type="com.cordys.entity.buildingblocks.file.FileAction"
+					RuntimeDocumentID="0242ac12-0004-a1ed-9f0d-e444b07a0dea">
+					<DocumentID>71D2598D-017F-3EEC-90D4-8EF643FBC312</DocumentID>
+					<Name>GetSignatureStatus</Name>
+					<Description>GetSignatureStatus</Description>
+					<CreatedBy>sysadmin</CreatedBy>
+					<CreationDate>2022-12-15T05:16:06.879</CreationDate>
+					<Notes/>
+					<ActionDisplayName>getSignatureStatus</ActionDisplayName>
+					<ActionId>8C16454BC921A1ED9375A10960C0F50B</ActionId>
 				</FileAction>
 			</OwnedActions>
 			<Properties>

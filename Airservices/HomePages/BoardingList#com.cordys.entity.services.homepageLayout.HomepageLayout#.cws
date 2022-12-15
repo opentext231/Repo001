@@ -70,7 +70,7 @@
 	<FormAssociations/>
 	<Image>
 		<uri
-			id="00505601-B36A-A1EC-9860-5DE61884BB65"
+			id="0242ac12-0004-a1ed-9f0d-dc3468558dea"
 			path="Airservices/Images/Cathay_Pacific_logo_Background.png"
 			type="com.cordys.cws.documenttypes.image.Png"
 		/>
@@ -98,6 +98,7 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation>
 				<uri
@@ -105,6 +106,7 @@
 				/>
 			</WorklistAssociation>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>

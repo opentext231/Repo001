@@ -12,7 +12,7 @@
 	<NamespacePrefix></NamespacePrefix>
 	<SourceFolder>
 		<uri
-			id="00505601-18CE-A1EC-8AD0-45579AD6011C"
+			id="0242ac12-0004-a1ed-9f0d-de0dc2c30dea"
 			path="PaymentGateway/Images"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

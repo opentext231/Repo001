@@ -3203,7 +3203,7 @@
 											<Value>Africa</Value>
 											<Icon>
 												<uri
-													id="0242ac18-0004-a1ed-88b1-a9415f38b103"
+													id="0242ac12-0004-a1ed-9f0d-dc2daa748dea"
 													path="Airservices/Images/SouthAfricaFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -3248,7 +3248,7 @@
 											<Value>Asia</Value>
 											<Icon>
 												<uri
-													id="0242ac18-0004-a1ed-88b1-a9439db43103"
+													id="0242ac12-0004-a1ed-9f0d-dc2bdc088dea"
 													path="Airservices/Images/In.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -3293,7 +3293,7 @@
 											<Value>Australia</Value>
 											<Icon>
 												<uri
-													id="0242ac18-0004-a1ed-88b1-a948a1b7b103"
+													id="0242ac12-0004-a1ed-9f0d-dc324bc70dea"
 													path="Airservices/Images/AustraliaFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -3338,7 +3338,7 @@
 											<Value>NorthAmerica</Value>
 											<Icon>
 												<uri
-													id="0242ac18-0004-a1ed-88b1-a940460f3103"
+													id="0242ac12-0004-a1ed-9f0d-dc31dab88dea"
 													path="Airservices/Images/USA.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -3383,7 +3383,7 @@
 											<Value>Europe</Value>
 											<Icon>
 												<uri
-													id="0242ac18-0004-a1ed-88b1-a944203db103"
+													id="0242ac12-0004-a1ed-9f0d-dc32995d8dea"
 													path="Airservices/Images/Eng.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -3428,7 +3428,7 @@
 											<Value>SouthAmerica</Value>
 											<Icon>
 												<uri
-													id="0242ac18-0004-a1ed-88b1-a946df1cb103"
+													id="0242ac12-0004-a1ed-9f0d-dc312aa58dea"
 													path="Airservices/Images/BrazilFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -3800,6 +3800,7 @@
 											</BusinessProcess>
 										</BPMEnumProvider>
 									</ValueProvider>
+									<contextProperties/>
 								</DynamicTextEnumSet>
 							</ValuesDefinition>
 						</TextEnumPropertyDefinition>
