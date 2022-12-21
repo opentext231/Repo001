@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -934,7 +936,7 @@
 											<Value></Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-493475A4011C"
+													id="0242ac12-0004-a1ed-a045-232cbe55887f"
 													path="Airservices/Images/In.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -958,7 +960,8 @@
 													<Notes/>
 													<DeveloperText>-Select Currency-</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-8F15-2BBBB90980CE"
+														<uri
+															id="00505601-1609-A1E7-8F15-2BBBB90980CE"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -978,7 +981,7 @@
 											<Value>70</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-47B69A8F011C"
+													id="0242ac12-0004-a1ed-a045-2330c405887f"
 													path="Airservices/Images/USA.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1002,7 +1005,8 @@
 													<Notes/>
 													<DeveloperText>US Dollar</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-8F15-2BBBB90800CE"
+														<uri
+															id="00505601-1609-A1E7-8F15-2BBBB90800CE"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1022,7 +1026,7 @@
 											<Value>120</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-47B69A93011C"
+													id="0242ac12-0004-a1ed-a045-232fcd20887f"
 													path="Airservices/Images/UAE.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1046,7 +1050,8 @@
 													<Notes/>
 													<DeveloperText>UAE Dhiram</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-8F15-2BBBB90600CE"
+														<uri
+															id="00505601-1609-A1E7-8F15-2BBBB90600CE"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1066,7 +1071,7 @@
 											<Value>95</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-493475B4011C"
+													id="0242ac12-0004-a1ed-a045-23313037087f"
 													path="Airservices/Images/Eng.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1090,7 +1095,8 @@
 													<Notes/>
 													<DeveloperText>British Pound</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-8F15-2BBBB90400CE"
+														<uri
+															id="00505601-1609-A1E7-8F15-2BBBB90400CE"
 														/>
 													</Identifier>
 												</TranslatableText>

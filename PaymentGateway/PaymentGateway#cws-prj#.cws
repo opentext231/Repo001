@@ -44,7 +44,7 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="00505601-9ED2-A1ED-9156-8AB0261CBB7F"
+			id="0242ac12-0004-a1ed-a045-244fbb61887f"
 			path="PaymentGateway"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

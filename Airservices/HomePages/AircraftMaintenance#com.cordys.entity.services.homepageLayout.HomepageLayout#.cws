@@ -70,7 +70,7 @@
 	<FormAssociations/>
 	<Image>
 		<uri
-			id="00505601-B36A-A1EC-9860-5DE61884BB65"
+			id="0242ac12-0004-a1ed-a045-23322bcc087f"
 			path="Airservices/Images/Cathay_Pacific_logo_Background.png"
 			type="com.cordys.cws.documenttypes.image.Png"
 		/>
@@ -98,9 +98,10 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon>
 				<uri
-					id="00505601-B36A-A1EC-9860-5DE618E4BB65"
+					id="0242ac12-0004-a1ed-a045-232d4c97087f"
 					path="Airservices/Images/AirPlane.png"
 					type="com.cordys.cws.documenttypes.image.Png"
 				/>
@@ -111,6 +112,7 @@
 				/>
 			</WorklistAssociation>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
@@ -133,9 +135,11 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>

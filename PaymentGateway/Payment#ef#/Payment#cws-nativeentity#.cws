@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -659,7 +661,7 @@
 											<Value>CreditCard</Value>
 											<Icon>
 												<uri
-													id="00505601-9ED2-A1EC-ACF3-45499BBF3B70"
+													id="0242ac12-0004-a1ed-a045-24517f5a887f"
 													path="PaymentGateway/Images/Cards.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -683,7 +685,8 @@
 													<Notes/>
 													<DeveloperText>Credit Card</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-144E-A1E7-A716-9EC3184580C7"
+														<uri
+															id="00505601-144E-A1E7-A716-9EC3184580C7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -703,7 +706,7 @@
 											<Value>DebitCard</Value>
 											<Icon>
 												<uri
-													id="00505601-9ED2-A1EC-ACF3-45499BBF3B70"
+													id="0242ac12-0004-a1ed-a045-24517f5a887f"
 													path="PaymentGateway/Images/Cards.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -727,7 +730,8 @@
 													<Notes/>
 													<DeveloperText>Debit Card</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-144E-A1E7-A716-9EC3184380C7"
+														<uri
+															id="00505601-144E-A1E7-A716-9EC3184380C7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -747,7 +751,7 @@
 											<Value>MobileWallet</Value>
 											<Icon>
 												<uri
-													id="00505601-9ED2-A1EC-ACF3-45499BB73B70"
+													id="0242ac12-0004-a1ed-a045-24524b63087f"
 													path="PaymentGateway/Images/Cash.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -771,7 +775,8 @@
 													<Notes/>
 													<DeveloperText>Mobile Wallet</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-144E-A1E7-A716-9EC3184000C7"
+														<uri
+															id="00505601-144E-A1E7-A716-9EC3184000C7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -809,7 +814,8 @@
 													<Notes/>
 													<DeveloperText>Internet Banking</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-144E-A1E7-A717-30492CCF80C7"
+														<uri
+															id="00505601-144E-A1E7-A717-30492CCF80C7"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -847,7 +853,8 @@
 													<Notes/>
 													<DeveloperText>COD</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-144E-A1E7-A716-9EC3183E00C7"
+														<uri
+															id="00505601-144E-A1E7-A716-9EC3183E00C7"
 														/>
 													</Identifier>
 												</TranslatableText>

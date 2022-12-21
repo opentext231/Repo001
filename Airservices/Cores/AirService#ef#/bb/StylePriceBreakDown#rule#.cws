@@ -11,6 +11,7 @@
 	<CreationDate>2017-05-24T06:26:30.85</CreationDate>
 	<Notes/>
 	<ActionLogged>false</ActionLogged>
+	<ActionOnSingleItem>false</ActionOnSingleItem>
 	<ActionSignedByUser>false</ActionSignedByUser>
 	<AllowChangesFromAnotherEntity>0</AllowChangesFromAnotherEntity>
 	<BusinessProcessReference></BusinessProcessReference>
@@ -102,7 +103,7 @@
 			</Object>
 			<ObjectOwner>
 				<uri
-					id="00505601-18CE-A1EC-8AD0-4C309DB4011C"
+					id="0242ac12-0004-a1ed-a045-23e6a95f887f"
 					path="Airservices/Cores/AirService#ef#/bb"
 					type="com.cordys.cws.runtime.types.folder.StudioFolder"
 				/>

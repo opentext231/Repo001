@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -1142,7 +1144,7 @@
 											<Value>Africa</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-47B69AA7011C"
+													id="0242ac12-0004-a1ed-a045-232dfff2087f"
 													path="Airservices/Images/SouthAfricaFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1166,7 +1168,8 @@
 													<Notes/>
 													<DeveloperText>Africa</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2F73-A1E8-9374-8A791B9100D4"
+														<uri
+															id="00505601-2F73-A1E8-9374-8A791B9100D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1186,7 +1189,7 @@
 											<Value>Asia</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-493475A4011C"
+													id="0242ac12-0004-a1ed-a045-232cbe55887f"
 													path="Airservices/Images/In.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1210,7 +1213,8 @@
 													<Notes/>
 													<DeveloperText>Asia</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2F73-A1E8-9379-4394AA3800D4"
+														<uri
+															id="00505601-2F73-A1E8-9379-4394AA3800D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1230,7 +1234,7 @@
 											<Value>NorthAmerica</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-47B69A8F011C"
+													id="0242ac12-0004-a1ed-a045-2330c405887f"
 													path="Airservices/Images/USA.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1254,7 +1258,8 @@
 													<Notes/>
 													<DeveloperText>North America</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-23f2-a1e7-b790-8328e53789be"
+														<uri
+															id="00505601-23f2-a1e7-b790-8328e53789be"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1274,7 +1279,7 @@
 											<Value>Australia</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-49347621011C"
+													id="0242ac12-0004-a1ed-a045-23310bdb887f"
 													path="Airservices/Images/AustraliaFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1298,7 +1303,8 @@
 													<Notes/>
 													<DeveloperText>Australia</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2F73-A1E8-9379-4394AA3080D4"
+														<uri
+															id="00505601-2F73-A1E8-9379-4394AA3080D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1318,7 +1324,7 @@
 											<Value>Europe</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-493475B4011C"
+													id="0242ac12-0004-a1ed-a045-23313037087f"
 													path="Airservices/Images/Eng.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1342,7 +1348,8 @@
 													<Notes/>
 													<DeveloperText>Europe</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2F73-A1E8-9379-4394AA3480D4"
+														<uri
+															id="00505601-2F73-A1E8-9379-4394AA3480D4"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1362,7 +1369,7 @@
 											<Value>SouthAmerica</Value>
 											<Icon>
 												<uri
-													id="00505601-18CE-A1EC-8AD0-493475FD011C"
+													id="0242ac12-0004-a1ed-a045-233069ab887f"
 													path="Airservices/Images/BrazilFlag.png"
 													type="com.cordys.cws.documenttypes.image.Png"
 												/>
@@ -1386,7 +1393,8 @@
 													<Notes/>
 													<DeveloperText>South America</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-2F73-A1E8-9379-4394AA2C00D4"
+														<uri
+															id="00505601-2F73-A1E8-9379-4394AA2C00D4"
 														/>
 													</Identifier>
 												</TranslatableText>
