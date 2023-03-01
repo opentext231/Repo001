@@ -67,7 +67,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-1609-A1E7-9016-907DE2FE00CF">
 			<DocumentID>00505601-1609-A1E7-9016-907DE2FDC0CF</DocumentID>
 			<Name>Form</Name>
@@ -90,13 +90,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-144E-A1E7-AE8E-0F30BAD040CA">
 			<DocumentID>00505601-144E-A1E7-AE8E-0F30BAD000CA</DocumentID>
 			<Name>Preview</Name>
@@ -115,9 +117,11 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>

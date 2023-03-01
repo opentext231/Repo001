@@ -79,7 +79,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-1609-A1E7-9022-3DB2940580D0">
 			<DocumentID>00505601-1609-A1E7-9022-3DB2940540D0</DocumentID>
 			<Name>Results</Name>
@@ -116,7 +116,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-1609-A1E7-9022-3DB2940480D0">
 			<DocumentID>00505601-1609-A1E7-9022-3DB2940440D0</DocumentID>
 			<Name>Preview</Name>

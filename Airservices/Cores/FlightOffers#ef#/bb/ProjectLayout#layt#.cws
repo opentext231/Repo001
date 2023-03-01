@@ -67,7 +67,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-144E-A1E7-B0EB-35658F36C0CB">
 			<DocumentID>00505601-144E-A1E7-B0EB-35658F3680CB</DocumentID>
 			<Name>Breadcrumbs</Name>
@@ -86,13 +86,15 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-144E-A1E7-B0EB-35658F3640CB">
 			<DocumentID>00505601-144E-A1E7-B0EB-35658F3600CB</DocumentID>
 			<Name>Form</Name>
@@ -115,9 +117,11 @@
 			<IHubPanelConfiguration/>
 			<LayoutAssociation/>
 			<LocalizableDisplayName/>
+			<PanelCategories/>
 			<PanelIcon/>
 			<WorklistAssociation/>
 			<XFormAssociation/>
+			<filterCriteria/>
 		</LayoutPanel>
 	</LayoutPanels>
 	<Original/>

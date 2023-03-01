@@ -3755,7 +3755,7 @@
 							<ValuesDefinition>
 								<DynamicTextEnumSet
 									type="com.cordys.entity.core.typesystem.primitives.dynamicenum.DynamicTextEnumSet"
-									typeVersion="7BEF1B00-6957-4DE4-AFA4-8E3CE755D36E"
+									typeVersion="9059AC43-C4E8-47C1-B5EA-FF4BB6EB9463"
 									RuntimeDocumentID="00505601-144E-A1E8-8356-6D7E1FA4C0CC">
 									<DocumentID>00505601-144E-A1E8-8356-6D7E1FA480CC</DocumentID>
 									<Name>Untitled DynamicTextEnumSet</Name>
@@ -3765,6 +3765,7 @@
 									<Notes/>
 									<CacheDuration>10</CacheDuration>
 									<CacheDurationUnit>minutes</CacheDurationUnit>
+									<ContextProperties/>
 									<DisplayNameProvider>
 										<BPMEnumProvider
 											type="com.cordys.bpm.provider.BPMEnumProvider"
@@ -3800,7 +3801,6 @@
 											</BusinessProcess>
 										</BPMEnumProvider>
 									</ValueProvider>
-									<contextProperties/>
 								</DynamicTextEnumSet>
 							</ValuesDefinition>
 						</TextEnumPropertyDefinition>

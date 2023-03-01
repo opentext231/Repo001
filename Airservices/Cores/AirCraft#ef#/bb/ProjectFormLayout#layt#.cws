@@ -84,7 +84,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="C4D98767-E60B-A1E7-92AB-A7B6B0C8C820">
 			<DocumentID>C4D98767-E60B-A1E7-92AB-A7B6B0C88820</DocumentID>
 			<Name>Form</Name>
@@ -121,7 +121,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="C4D98767-E60B-A1E7-92AC-35EB7825C820">
 			<DocumentID>C4D98767-E60B-A1E7-92AC-35EB78258820</DocumentID>
 			<Name>Preview</Name>
@@ -154,7 +154,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-23f2-a1e7-b668-b094eca41f94">
 			<DocumentID>00505601-23f2-a1e7-b668-b094ec901f94</DocumentID>
 			<Name>Breadcrumbs</Name>
@@ -181,7 +181,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="00505601-23f2-a1e7-b8ee-c7e5dc87274a">
 			<DocumentID>00505601-23f2-a1e7-b8ee-c7e5dc75a74a</DocumentID>
 			<Name>Actions</Name>
@@ -208,7 +208,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="c8470923-66b0-4ff2-aeda-2313082203a3"
+			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
 			RuntimeDocumentID="74E543D7-FE3D-A1E8-88EA-3502C54DFF83">
 			<DocumentID>74E543D7-FE3D-A1E8-88EA-3502C54DBF83</DocumentID>
 			<Name>Form1</Name>
