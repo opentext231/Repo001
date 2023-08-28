@@ -49,7 +49,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-23f2-a1e7-b78d-f64b339288d4">
 			<DocumentID>00505601-23f2-a1e7-b78d-f64b338388d4</DocumentID>
 			<Name>Preview</Name>
@@ -76,7 +76,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-23f2-a1e7-b78d-f64b337488d4">
 			<DocumentID>00505601-23f2-a1e7-b78d-f64b336308d4</DocumentID>
 			<Name>Breadcrumbs</Name>

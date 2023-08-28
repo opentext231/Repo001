@@ -9,6 +9,7 @@
 	<CreatedBy>Alapati SivaKumar</CreatedBy>
 	<CreationDate>2018-02-26T12:36:27.977</CreationDate>
 	<Notes/>
+	<DueDateType></DueDateType>
 	<Duration></Duration>
 	<LifeCycleState></LifeCycleState>
 	<StartPolicyType>startCustom</StartPolicyType>
@@ -22,7 +23,7 @@
 	<DeadlineDuration>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-144E-A1E8-86B3-E0CC1E40C0CD">
 			<DocumentID>00505601-144E-A1E8-86B3-E0CC1E4080CD</DocumentID>
 			<Name>DeadlineDurationExpresion</Name>
@@ -145,7 +146,7 @@
 	<StartCondition>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-144E-A1E8-86B3-E0CC1E3F00CD">
 			<DocumentID>00505601-144E-A1E8-86B3-E0CC1E3EC0CD</DocumentID>
 			<Name>StartConditionExpresion</Name>
@@ -216,7 +217,7 @@
 	<StopCondition>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-144E-A1E8-86B3-E0CC1E3C00CD">
 			<DocumentID>00505601-144E-A1E8-86B3-E0CC1E3BC0CD</DocumentID>
 			<Name>StopConditionExpresion</Name>

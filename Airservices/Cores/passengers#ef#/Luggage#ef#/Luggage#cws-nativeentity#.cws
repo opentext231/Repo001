@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -844,7 +846,8 @@
 													<Notes/>
 													<DeveloperText>Check-In Baggage</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-96FD-EE39B82540D5"
+														<uri
+															id="00505601-1609-A1E7-96FD-EE39B82540D5"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -882,7 +885,8 @@
 													<Notes/>
 													<DeveloperText>Cabin Baggage</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-96FD-EE39B823C0D5"
+														<uri
+															id="00505601-1609-A1E7-96FD-EE39B823C0D5"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -920,7 +924,8 @@
 													<Notes/>
 													<DeveloperText>Other Baggage</DeveloperText>
 													<Identifier>
-														<uri	id="00505601-1609-A1E7-96FD-EE39B821C0D5"
+														<uri
+															id="00505601-1609-A1E7-96FD-EE39B821C0D5"
 														/>
 													</Identifier>
 												</TranslatableText>

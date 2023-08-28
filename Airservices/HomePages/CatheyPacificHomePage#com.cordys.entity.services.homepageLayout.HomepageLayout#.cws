@@ -54,7 +54,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="C4D98767-E607-A1E7-908C-6FF8B07A357B">
 			<DocumentID>C4D98767-E607-A1E7-908C-6FF8B079F57B</DocumentID>
 			<Name>WebContent</Name>

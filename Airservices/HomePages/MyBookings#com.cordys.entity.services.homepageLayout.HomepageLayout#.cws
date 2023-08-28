@@ -54,7 +54,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-144E-A1E7-B376-E9F7E9A840CB">
 			<DocumentID>00505601-144E-A1E7-B376-E9F7E9A800CB</DocumentID>
 			<Name>Results</Name>
@@ -85,7 +85,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-23f2-a1e7-ba80-85c42a913085">
 			<DocumentID>00505601-23f2-a1e7-ba80-85c42a873085</DocumentID>
 			<Name>Results1</Name>
@@ -118,7 +118,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-23f2-a1e7-ba80-85c42a2d3085">
 			<DocumentID>00505601-23f2-a1e7-ba80-85c42a233085</DocumentID>
 			<Name>Results2</Name>
@@ -155,7 +155,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-23f2-a1e7-bab1-537925dd35ba">
 			<DocumentID>00505601-23f2-a1e7-bab1-537925d0b5ba</DocumentID>
 			<Name>Layout</Name>
@@ -182,7 +182,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-23f2-a1e7-bab1-537925ba35ba">
 			<DocumentID>00505601-23f2-a1e7-bab1-537925b2b5ba</DocumentID>
 			<Name>Layout1</Name>

@@ -6366,7 +6366,7 @@ Examination</Description>
 							<EntityExpression>
 								<EntityExpression
 									type="com.cordys.entity.services.entityexpression.EntityExpression"
-									typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+									typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 									RuntimeDocumentID="00505601-3E3A-A1E8-AFF7-3BAF3FC01108">
 									<DocumentID>00505601-3E3A-A1E8-AFF7-3BAF3FBFD108</DocumentID>
 									<Name>TestExp1537784383387</Name>
@@ -6415,7 +6415,8 @@ Examination</Description>
 													<CreationDate>2018-09-24T10:49:46.695</CreationDate>
 													<Notes/>
 													<Relationship>
-														<uri	id="00505601-1DB4-A1E7-ABD3-7C71FC4880D8"
+														<uri
+															id="00505601-1DB4-A1E7-ABD3-7C71FC4880D8"
 														/>
 													</Relationship>
 												</RelationshipReference>
@@ -6429,7 +6430,8 @@ Examination</Description>
 													<CreationDate>2018-09-24T10:49:46.695</CreationDate>
 													<Notes/>
 													<Relationship>
-														<uri	id="C4D98767-E607-A1E7-9088-C754415C357B"
+														<uri
+															id="C4D98767-E607-A1E7-9088-C754415C357B"
 														/>
 													</Relationship>
 												</RelationshipReference>

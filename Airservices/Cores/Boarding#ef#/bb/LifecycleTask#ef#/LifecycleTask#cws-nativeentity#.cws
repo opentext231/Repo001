@@ -581,7 +581,7 @@
 		</IdentityBuildingBlock>
 		<InboxTaskBuildingBlock
 			type="com.cordys.entity.buildingblocks.inboxtask.InboxTaskBuildingBlock"
-			typeVersion="4936c25f-e321-4398-8ae8-d69178136b4d"
+			typeVersion="D646C9D1-F5CF-4407-BF9E-7F42B1C9158F"
 			RuntimeDocumentID="90B11C8A-3947-11E5-F7F0-5406E6CE7FCB">
 			<DocumentID>00505601-1DB4-A1E7-ABD8-90905BC600D8</DocumentID>
 			<Name>Task</Name>
@@ -2435,7 +2435,7 @@
 					<CreationDate>2017-10-12T15:58:02.513</CreationDate>
 					<Notes/>
 					<ConflictLevel>None</ConflictLevel>
-					<DataType>Decimal</DataType>
+					<DataType>IntegerValueList</DataType>
 					<ExposeForReuse>false</ExposeForReuse>
 					<Expression></Expression>
 					<IsComputedProperty>false</IsComputedProperty>
@@ -2469,30 +2469,154 @@
 						</TranslatableText>
 					</DisplayName>
 					<OwnedTypeDefinition>
-						<DecimalPropertyDefinition
-							type="com.cordys.entity.core.typesystem.primitives.number.DecimalPropertyDefinition"
-							typeVersion="4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
-							RuntimeDocumentID="00505601-1DB4-A1E7-ABD8-90905C5900D8">
-							<DocumentID>00505601-1DB4-A1E7-ABD8-90905C58C0D8</DocumentID>
-							<Name>Untitled Decimal Type</Name>
-							<Description>Untitled Decimal Type</Description>
-							<CreatedBy>siva</CreatedBy>
-							<CreationDate>2017-10-12T15:58:02.45</CreationDate>
+						<IntegerEnumPropertyDefinition
+							type="com.cordys.entity.core.typesystem.primitives.staticEnum.IntegerEnumPropertyDefinition"
+							typeVersion="005056C0-0008-11E6-ECD4-9ED50A5ADB27 4189E3FD-7E68-423A-8289-FEFAD1EC0ED8"
+							RuntimeDocumentID="00505601-145e-a1ee-9169-861115b6abdb">
+							<DocumentID>5954A609-03DD-3592-8FE9-D2629A5D4134</DocumentID>
+							<Name>5954A609-03DD-3592-8FE9-D2629A5D4134</Name>
+							<Description/>
+							<CreatedBy>sysadmin</CreatedBy>
+							<CreationDate>2023-08-28T13:23:49.934</CreationDate>
 							<Notes/>
 							<DefaultValue></DefaultValue>
-							<DigitsLeftOfDecimal>18</DigitsLeftOfDecimal>
-							<DigitsRightOfDecimal>0</DigitsRightOfDecimal>
-							<Max></Max>
-							<Min></Min>
+							<IsEnumerationSorted>false</IsEnumerationSorted>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
+							<DefaultEnum/>
+							<Enums/>
 							<Type/>
-						</DecimalPropertyDefinition>
+							<ValuesDefinition>
+								<StaticIntegerEnumSet
+									type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnumSet"
+									RuntimeDocumentID="00505601-145e-a1ee-9169-86111737abdb">
+									<DocumentID>2840F3BC-8B7B-3825-8807-4585B0DE8D08</DocumentID>
+									<Name>2840F3BC-8B7B-3825-8807-4585B0DE8D08</Name>
+									<Description/>
+									<CreatedBy>sysadmin</CreatedBy>
+									<CreationDate>2023-08-28T13:24:04.3</CreationDate>
+									<Notes/>
+									<DefaultEnum/>
+									<Enums>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="00505601-145e-a1ee-9169-861118482bdb">
+											<DocumentID>94AA339C-69BB-3410-8233-8390591E16D0</DocumentID>
+											<Name>94AA339C-69BB-3410-8233-8390591E16D0</Name>
+											<Description/>
+											<CreatedBy>sysadmin</CreatedBy>
+											<CreationDate>2023-08-28T13:23:58.337</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>1</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="2840F3BC-8B7B-3825-8807-4585B0DE8D08"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00505601-145e-a1ee-9169-86111985abdb">
+													<DocumentID>0556D32C-35C8-373E-82E0-674399C498D9</DocumentID>
+													<Name>0556D32C-35C8-373E-82E0-674399C498D9</Name>
+													<Description/>
+													<CreatedBy>sysadmin</CreatedBy>
+													<CreationDate>2023-08-28T13:24:02.592</CreationDate>
+													<Notes/>
+													<DeveloperText>Low</DeveloperText>
+													<Identifier/>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="00505601-145e-a1ee-9169-86111a8c2bdb">
+											<DocumentID>B9F8D258-8959-39B5-87B6-E9AA9F8E2BAC</DocumentID>
+											<Name>B9F8D258-8959-39B5-87B6-E9AA9F8E2BAC</Name>
+											<Description/>
+											<CreatedBy>sysadmin</CreatedBy>
+											<CreationDate>2023-08-28T13:23:51.664</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>5</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="2840F3BC-8B7B-3825-8807-4585B0DE8D08"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00505601-145e-a1ee-9169-86111b7c2bdb">
+													<DocumentID>2B875C20-CCD0-3292-BD17-177B7E19ECE1</DocumentID>
+													<Name>2B875C20-CCD0-3292-BD17-177B7E19ECE1</Name>
+													<Description/>
+													<CreatedBy>sysadmin</CreatedBy>
+													<CreationDate>2023-08-28T13:24:02.551</CreationDate>
+													<Notes/>
+													<DeveloperText>High</DeveloperText>
+													<Identifier/>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+										<StaticIntegerEnum
+											type="com.cordys.entity.core.typesystem.primitives.staticEnum.StaticIntegerEnum"
+											typeVersion="005056C0-0008-11E6-ECD4-A00528D1BB27"
+											RuntimeDocumentID="00505601-145e-a1ee-9169-86111c672bdb">
+											<DocumentID>9E332C2D-ED62-3581-8478-4CABE1D06F97</DocumentID>
+											<Name>9E332C2D-ED62-3581-8478-4CABE1D06F97</Name>
+											<Description/>
+											<CreatedBy>sysadmin</CreatedBy>
+											<CreationDate>2023-08-28T13:24:00.258</CreationDate>
+											<Notes/>
+											<IsNullEntry>false</IsNullEntry>
+											<Value>3</Value>
+											<Icon/>
+											<PropertyDefinition/>
+											<StaticEnumSet>
+												<uri
+													id="2840F3BC-8B7B-3825-8807-4585B0DE8D08"
+												/>
+											</StaticEnumSet>
+											<ValueDisplayName>
+												<TranslatableText
+													type="com.cordys.translation.TranslatableText"
+													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+													RuntimeDocumentID="00505601-145e-a1ee-9169-86111ce6abdb">
+													<DocumentID>27541756-F46D-338B-8D78-7F92EF205108</DocumentID>
+													<Name>27541756-F46D-338B-8D78-7F92EF205108</Name>
+													<Description/>
+													<CreatedBy>sysadmin</CreatedBy>
+													<CreationDate>2023-08-28T13:24:04.301</CreationDate>
+													<Notes/>
+													<DeveloperText>Normal</DeveloperText>
+													<Identifier/>
+												</TranslatableText>
+											</ValueDisplayName>
+										</StaticIntegerEnum>
+									</Enums>
+									<PropertyDefinition>
+										<uri
+											id="5954A609-03DD-3592-8FE9-D2629A5D4134"
+										/>
+									</PropertyDefinition>
+								</StaticIntegerEnumSet>
+							</ValuesDefinition>
+						</IntegerEnumPropertyDefinition>
 					</OwnedTypeDefinition>
 					<Tooltip/>
 					<TypeDefinition>
 						<uri
-							id="00505601-1DB4-A1E7-ABD8-90905C58C0D8"
+							id="5954A609-03DD-3592-8FE9-D2629A5D4134"
 						/>
 					</TypeDefinition>
 				</Property>
@@ -5226,7 +5350,7 @@
 									<expression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="00505601-23f2-a1e7-b6cf-ae28ca9896fb">
 											<DocumentID>00505601-23f2-a1e7-b6cf-ae28ca8716fb</DocumentID>
 											<Name>CheckPayment</Name>

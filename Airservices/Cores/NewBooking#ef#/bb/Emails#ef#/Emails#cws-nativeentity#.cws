@@ -1120,6 +1120,7 @@
 			<Content>
 				<Content
 					type="com.cordys.entity.buildingblocks.content.Content"
+					typeVersion="98fa9b06-188b-a1ed-b293-670a6f3b105f"
 					RuntimeDocumentID="00505601-23f2-a1e7-b78d-f61338ca89be">
 					<DocumentID>00505601-23f2-a1e7-b78d-f61338bb89be</DocumentID>
 					<Name>Untitled ContentOption</Name>
@@ -1129,12 +1130,14 @@
 					<Notes/>
 					<MaxNoOfFiles></MaxNoOfFiles>
 					<RootPath>${system.organization}/${solution.name}/${contentbuildingblock.path}</RootPath>
+					<SaveSignedDocumentAs>NewVersion</SaveSignedDocumentAs>
 					<BuildingBlock>
 						<uri
 							id="00505601-23f2-a1e7-b78d-f613392209be"
 						/>
 					</BuildingBlock>
 					<DisplayName/>
+					<SignedDocumentsLocation/>
 				</Content>
 			</Content>
 			<Entity>

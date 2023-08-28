@@ -11,15 +11,20 @@
 	<CreationDate>2018-04-10T11:02:57.872</CreationDate>
 	<Notes/>
 	<ActionLogged>false</ActionLogged>
+	<ActionOnSingleItem>false</ActionOnSingleItem>
 	<ActionSignedByUser>false</ActionSignedByUser>
 	<AllowChangesFromAnotherEntity>0</AllowChangesFromAnotherEntity>
 	<BusinessProcessReference></BusinessProcessReference>
 	<BusinessProcessReferenceName></BusinessProcessReferenceName>
 	<ButtonVisibility></ButtonVisibility>
 	<CreateNewRuleManagerId>false</CreateNewRuleManagerId>
+	<CustomizeDimensionsOfRuleDialog>false</CustomizeDimensionsOfRuleDialog>
+	<CustomizeHeightOfRuleDialog></CustomizeHeightOfRuleDialog>
+	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
 	<Expression>item.qpid(005056011DB4A1E7ABD6EA0F746700D8.840EBFF0D7BC11E5BC296C1ABB8E7F8B)==&quot;Baggage Check-In&quot;</Expression>
+	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>0</PostRuleActionOption>
 	<PostRuleUrl></PostRuleUrl>
@@ -64,11 +69,12 @@
 	<RuleActionLayout/>
 	<RuleActionMessage/>
 	<RuleActionTargetCategory/>
+	<RuleActionTargetCategoryPath/>
 	<RuleActionTargetProperty/>
 	<RuleEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2fb1-a1e8-8f2b-25740cf7ad7f">
 			<DocumentID>00505601-2fb1-a1e8-8f2b-25740cedad7f</DocumentID>
 			<Name>ruleEntityExpression</Name>
@@ -141,7 +147,7 @@
 	<RuleSetSourceEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2fb1-a1e8-8f2b-25740ccd2d7f">
 			<DocumentID>00505601-2fb1-a1e8-8f2b-25740cc32d7f</DocumentID>
 			<Name>ruleSetSourceEntityExpression</Name>
@@ -228,7 +234,7 @@
 	<RuleSetTargetEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2fb1-a1e8-8f2b-25740ce3ad7f">
 			<DocumentID>00505601-2fb1-a1e8-8f2b-25740cd72d7f</DocumentID>
 			<Name>ruleSetTargetEntityExpression</Name>
@@ -297,6 +303,7 @@
 		</EntityExpression>
 	</RuleSetTargetEntityExpression>
 	<SendEmailActionTemplate/>
+	<UniquenessProperties/>
 	<UserEntity>
 		<uri
 			id="F8B156E1-0371-11E6-E9CB-0FBF3334DBBF"

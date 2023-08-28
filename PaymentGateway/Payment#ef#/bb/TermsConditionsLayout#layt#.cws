@@ -67,7 +67,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-2F73-A1E8-969E-C631F7CC00D6">
 			<DocumentID>00505601-2F73-A1E8-969E-C631F7CBC0D6</DocumentID>
 			<Name>Form</Name>

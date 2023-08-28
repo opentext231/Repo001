@@ -84,7 +84,7 @@
 	<LayoutPanels>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-1DB4-A1E7-ABF3-FB1BE8FA80D8">
 			<DocumentID>00505601-1DB4-A1E7-ABF3-FB1BE8FA40D8</DocumentID>
 			<Name>Breadcrumbs</Name>
@@ -111,7 +111,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-1DB4-A1E7-ABF3-FB1BE8F880D8">
 			<DocumentID>00505601-1DB4-A1E7-ABF3-FB1BE8F840D8</DocumentID>
 			<Name>LifecycleProgressPanel1</Name>
@@ -138,7 +138,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-1DB4-A1E7-ABF3-FB1BE8F800D8">
 			<DocumentID>00505601-1DB4-A1E7-ABF3-FB1BE8F7C0D8</DocumentID>
 			<Name>TaskPanel</Name>
@@ -169,7 +169,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-2F73-A1E8-8B95-7A1A2A5780CA">
 			<DocumentID>00505601-2F73-A1E8-8B95-7A1A2A5740CA</DocumentID>
 			<Name>Actions</Name>
@@ -200,7 +200,7 @@
 		</LayoutPanel>
 		<LayoutPanel
 			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="9748e5f5-73a7-42e2-b679-08ee1ed05f4e"
+			typeVersion="957533B8-9634-4C16-8BBF-DF86E23ECF97"
 			RuntimeDocumentID="00505601-2F73-A1E8-8C30-0DF69CA200CA">
 			<DocumentID>00505601-2F73-A1E8-8C30-0DF69CA1C0CA</DocumentID>
 			<Name>ActivityFlowSummaryPanel</Name>

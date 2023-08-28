@@ -11,15 +11,20 @@
 	<CreationDate>2017-06-15T09:45:15.952</CreationDate>
 	<Notes/>
 	<ActionLogged>false</ActionLogged>
+	<ActionOnSingleItem>false</ActionOnSingleItem>
 	<ActionSignedByUser>false</ActionSignedByUser>
 	<AllowChangesFromAnotherEntity>0</AllowChangesFromAnotherEntity>
 	<BusinessProcessReference>00505601-1609-A1E7-95CB-69F0A72380D5</BusinessProcessReference>
 	<BusinessProcessReferenceName>AddPassengers</BusinessProcessReferenceName>
 	<ButtonVisibility></ButtonVisibility>
 	<CreateNewRuleManagerId>false</CreateNewRuleManagerId>
+	<CustomizeDimensionsOfRuleDialog>false</CustomizeDimensionsOfRuleDialog>
+	<CustomizeHeightOfRuleDialog></CustomizeHeightOfRuleDialog>
+	<CustomizeWidthOfRuleDialog></CustomizeWidthOfRuleDialog>
 	<DefaultToAdvancedMode>0</DefaultToAdvancedMode>
 	<EnabledOnError>0</EnabledOnError>
 	<Expression></Expression>
+	<HideHeaderFooterOnRuleDialog>false</HideHeaderFooterOnRuleDialog>
 	<IsRuleValid>1</IsRuleValid>
 	<PostRuleActionOption>2</PostRuleActionOption>
 	<PostRuleUrl>https://www.billdesk.com/pgidsk/pgijsp/sbicard/SBI_card.jsp</PostRuleUrl>
@@ -90,7 +95,7 @@
 	<RuleEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-1DB4-A1E7-9465-B770665E80CE">
 			<DocumentID>00505601-1DB4-A1E7-9465-B770665E40CE</DocumentID>
 			<Name>ruleEntityExpression</Name>
@@ -125,7 +130,7 @@
 	<RuleSetSourceEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-1DB4-A1E7-9465-B770665D80CE">
 			<DocumentID>00505601-1DB4-A1E7-9465-B770665D40CE</DocumentID>
 			<Name>ruleSetSourceEntityExpression</Name>
@@ -158,7 +163,7 @@
 	<RuleSetTargetEntityExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-1DB4-A1E7-9465-B770665E00CE">
 			<DocumentID>00505601-1DB4-A1E7-9465-B770665DC0CE</DocumentID>
 			<Name>ruleSetTargetEntityExpression</Name>

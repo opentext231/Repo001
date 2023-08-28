@@ -12,8 +12,10 @@
 	<Notes/>
 	<ExposeForReuse>false</ExposeForReuse>
 	<IsAbstract>false</IsAbstract>
+	<IsEisNativeEntity>false</IsEisNativeEntity>
 	<IsExternallyManaged>false</IsExternallyManaged>
 	<IsSingleton>false</IsSingleton>
+	<RepositoryConnectionId></RepositoryConnectionId>
 	<TableName></TableName>
 	<BuildingBlocks>
 		<uri
@@ -899,7 +901,8 @@
 													<Notes/>
 													<DeveloperText>First</DeveloperText>
 													<Identifier>
-														<uri	id="C4D98767-E607-A1E7-9337-17DEC6573EDD"
+														<uri
+															id="C4D98767-E607-A1E7-9337-17DEC6573EDD"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -937,7 +940,8 @@
 													<Notes/>
 													<DeveloperText>Business</DeveloperText>
 													<Identifier>
-														<uri	id="C4D98767-E607-A1E7-9337-17DEC655BEDD"
+														<uri
+															id="C4D98767-E607-A1E7-9337-17DEC655BEDD"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -975,7 +979,8 @@
 													<Notes/>
 													<DeveloperText>Economy</DeveloperText>
 													<Identifier>
-														<uri	id="C4D98767-E607-A1E7-9337-17DEC6523EDD"
+														<uri
+															id="C4D98767-E607-A1E7-9337-17DEC6523EDD"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -2275,7 +2280,7 @@
 									<expression>
 										<EntityExpression
 											type="com.cordys.entity.services.entityexpression.EntityExpression"
-											typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+											typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 											RuntimeDocumentID="00505601-23f2-a1e7-b6cb-afb08ec52695">
 											<DocumentID>00505601-23f2-a1e7-b6cb-afb08eb62695</DocumentID>
 											<Name>TodaysBoardingList</Name>
@@ -2315,23 +2320,28 @@
 													<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 													<IntermediateRelationships/>
 													<Object>
-														<uri	id="00505601-23f2-a1e7-b6cb-afb08eb62695"
+														<uri
+															id="00505601-23f2-a1e7-b6cb-afb08eb62695"
 														/>
 													</Object>
 													<ObjectOwner>
-														<uri	id="00505601-23f2-a1e7-b668-f33ad39f87a1"
+														<uri
+															id="00505601-23f2-a1e7-b668-f33ad39f87a1"
 														/>
 													</ObjectOwner>
 													<PathBegin>
-														<uri	id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+														<uri
+															id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
 														/>
 													</PathBegin>
 													<PathEnd>
-														<uri	id="00505601-1DB4-A1E7-ABD6-EA0F7462C0D8"
+														<uri
+															id="00505601-1DB4-A1E7-ABD6-EA0F7462C0D8"
 														/>
 													</PathEnd>
 													<RootOwner>
-														<uri	id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
+														<uri
+															id="00505601-1DB4-A1E7-ABD1-6FCC3338C0D8"
 														/>
 													</RootOwner>
 												</PropertyObjectPath>

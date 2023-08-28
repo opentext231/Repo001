@@ -4399,7 +4399,7 @@
 			<Email>
 				<Email
 					type="com.cordys.entity.buildingblocks.email.Email"
-					typeVersion="70B3859A-6661-405A-915F-79AC52C92B04"
+					typeVersion="EA009434-A340-4D6E-AF58-3FDA-03E0EDA0"
 					RuntimeDocumentID="00505601-23f2-a1e7-b78b-970ea0c6274a">
 					<DocumentID>00505601-23f2-a1e7-b78b-970ea0b4a74a</DocumentID>
 					<Name>Email</Name>
@@ -4418,6 +4418,7 @@
 					<EmailConfigurationName></EmailConfigurationName>
 					<EmailMessageFileType></EmailMessageFileType>
 					<SaveLocationOfEmailMessage></SaveLocationOfEmailMessage>
+					<UseLoggedInUserInFromAddress>false</UseLoggedInUserInFromAddress>
 					<BuildingBlock>
 						<uri
 							id="00505601-23f2-a1e7-b78b-970ea0d5274a"
@@ -4429,11 +4430,18 @@
 					<ContentFolderLocationForIncomingAttachment/>
 					<ContentFolderLocationForSaveEmailTo/>
 					<DisplayName/>
+					<DraftOrForwardEmailAttachmentPreviewLayout/>
+					<EmailAttachmentPreviewLayout/>
 					<EmailConfig>
 						<uri
 							id="00505601-23f2-a1e7-b78b-970ea00fa74a"
 						/>
 					</EmailConfig>
+					<EmailContentLayout>
+						<uri
+							id="00505601-23f2-a1e7-b78d-f64b33c208d4"
+						/>
+					</EmailContentLayout>
 				</Email>
 			</Email>
 			<Entity>

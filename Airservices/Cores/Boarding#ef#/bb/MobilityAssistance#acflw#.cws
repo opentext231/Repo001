@@ -1866,6 +1866,7 @@
 			</HandlingModels>
 			<Links/>
 			<ModelParameters/>
+			<SecurityDescriptor/>
 			<ShapeConnectors/>
 			<ShapeReferences/>
 			<TranslatableName/>
@@ -1877,7 +1878,7 @@
 	<TriggerExpression>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="00505601-2ff6-a1e8-8ccb-4e06326331cb">
 			<DocumentID>00505601-2ff6-a1e8-8ccb-4e06325931cb</DocumentID>
 			<Name>TriggerExpression</Name>

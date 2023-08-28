@@ -38,7 +38,7 @@
 	<FormComponents>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022DF80CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022DF40CF</DocumentID>
 			<Name>FormsFragment</Name>
@@ -76,7 +76,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022DB80CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022DB40CF</DocumentID>
 			<Name>FormPropertyComponentEKKC1I07JMQRJUTI4OMGX85K8332T60I</Name>
@@ -122,7 +122,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022DA80CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022DA40CF</DocumentID>
 			<Name>FormPropertyComponentEAOUBDTODK6OCXSPVWK08VP06MV4YUS1</Name>
@@ -168,7 +168,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022D980CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022D940CF</DocumentID>
 			<Name>FormPropertyComponentUC2U6LS55TIFNI5TX35FEQ8HFXKD9J9V</Name>
@@ -214,7 +214,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022D880CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022D840CF</DocumentID>
 			<Name>FormPropertyComponentFLXA0PRTJ2Y06GMV1WWH715GFYFRCWQR</Name>
@@ -260,7 +260,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022D780CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022D740CF</DocumentID>
 			<Name>FormPropertyComponentOPGADJ7WNLV45OTAJN66XAP8SWM2WCS1</Name>
@@ -306,7 +306,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022D680CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022D640CF</DocumentID>
 			<Name>FormHtmlImageComponentK7TEOSKN8TO6BW0NGYBRC1OKSFDAQ31T</Name>
@@ -372,7 +372,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022D600CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022D5C0CF</DocumentID>
 			<Name>FormHtmlImageComponentM4YKDADVG7NU77K0X7UMAKIFB0VV7NWN</Name>
@@ -438,7 +438,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-1609-A1E7-900E-5E6022D580CF">
 			<DocumentID>00505601-1609-A1E7-900E-5E6022D540CF</DocumentID>
 			<Name>FormHtmlImageComponentSBGL8MCP8O0S68P05LQBNKNRIS2B0KWY</Name>
@@ -504,7 +504,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-144E-A1E8-86AF-DA58350040CD">
 			<DocumentID>00505601-144E-A1E8-86AF-DA58350000CD</DocumentID>
 			<Name>FormPropertyComponentKUPNOE28CPN8M4UM4XWLUHTF2H7BEIGX</Name>
